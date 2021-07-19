@@ -1,0 +1,12 @@
+
+
+const firebaseConfig = {
+  apiKey: "AIzaSyDmqZJl6RmhwzYYmI-bm7HOspe_fVUYHEM",
+  authDomain: "netflix-8b8e5.firebaseapp.com",
+  databaseURL: "https://netflix-8b8e5.firebaseio.com",
+  projectId: "netflix-8b8e5",
+  storageBucket: "netflix-8b8e5.appspot.com",
+  messagingSenderId: "854636266531",
+  appId: "1:854636266531:web:33590679c1ab858e461d96",
+  measurementId: "G-PH42EBSEST"
+};
